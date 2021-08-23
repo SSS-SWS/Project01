@@ -37,7 +37,5 @@ public class HellloWorld {
     public void test1(String a){
         System.out.println("a = " + a);
     }
-     public void test1(String a){
-        System.out.println("a = " + a);
-    }
+
 }
